@@ -44,3 +44,4 @@ function toggleInfo(infoId) {
     info.style.display = "none";
   }
 }
+
